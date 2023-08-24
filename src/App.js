@@ -1,5 +1,5 @@
 import Navbar from './Navbar';
-import Home from './home';
+import Home from './Home';
 
 function App() {
   return (
