@@ -16,3 +16,7 @@ root.render(
 
 // cmd for json server
 // npx json-server --watch data/db.json --port 8000
+
+// stop react server
+// netstat -ano | findstr :3000
+// taskkill /F /PID 12345
