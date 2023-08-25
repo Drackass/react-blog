@@ -20,3 +20,7 @@ root.render(
 // stop react server
 // netstat -ano | findstr :3000
 // taskkill /F /PID 12345
+
+
+//install react router dom
+// npm install react-router-dom@5
