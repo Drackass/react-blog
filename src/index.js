@@ -14,6 +14,9 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 
+// create react app
+// npx create-react-app app-name 
+
 // cmd for json server
 // npx json-server --watch data/db.json --port 8000
 
